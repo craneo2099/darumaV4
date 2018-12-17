@@ -1,0 +1,13 @@
+{
+  "name": "darumaV4",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+  	{
+	  	"path": "/darumaUrl",
+	  	"proxyUrl": "http://koinobori-artesanias.com/darumas/public/"
+  	}
+  ]
+}
